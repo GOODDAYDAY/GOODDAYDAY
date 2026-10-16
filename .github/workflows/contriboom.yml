@@ -37,7 +37,7 @@ jobs:
 
           # Palettes: github, light, dark, ocean, sakura, cyberpunk, sunset, nord,
           # mocha, mint, sky, lavender, peach, sand, rose.
-          theme: sky
+          theme: github
 
       - name: Commit updated images
         shell: bash
