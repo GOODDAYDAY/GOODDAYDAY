@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img src="images/pixelwalk/pixelwalk.gif" width="100%" alt="A pixel character walks past every project I have shipped, 2019 to 2026">
+  <img src="images/pixelwalk/pixelwalk.gif" width="100%" alt="A pixel character walks past every project I have shipped, 2018 to 2026">
 </p>
