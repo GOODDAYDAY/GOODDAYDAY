@@ -374,10 +374,6 @@
 <rect x="1150" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
 <rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
 </g><g id="contributions">
-<g data-cell="0,5"><title>2025-10-17: 20 contributions</title>
-<rect x="6" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
-<path d="M9 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
-</g>
 <g data-cell="0,6"><title>2025-10-18: 19 contributions</title>
 <rect x="6" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M9 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
@@ -898,7 +894,7 @@
 <rect x="1128" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1131 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,5"><title>2026-10-16: 3 contributions</title>
+<g data-cell="52,5"><title>2026-10-16: 20 contributions</title>
 <rect x="1150" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1153 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
