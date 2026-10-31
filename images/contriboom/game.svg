@@ -400,10 +400,6 @@
 <rect x="1150" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
 <rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
 </g><g id="contributions">
-<g data-cell="0,5"><title>2025-10-31: 7 contributions</title>
-<rect x="6" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
-<path d="M9 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
-</g>
 <g data-cell="1,2"><title>2025-11-04: 11 contributions</title>
 <rect x="28" y="50" width="20" height="20" rx="3" fill="#aceebb"><animate attributeName="fill" dur="19.2s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.438542;0.866186;1" values="#aceebb;#eff2f5;#aceebb;#aceebb"/></rect>
 <path d="M31 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
